@@ -1,4 +1,4 @@
 # MI PRIMER WEB SERVER
 
-{{>note}}
+**note**
 > Javier Tarazona
